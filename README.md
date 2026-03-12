@@ -114,4 +114,4 @@ zona-gis-api/
 
 **Miguel Angel Susarte**  
 Técnico de Telecomunicaciones → Developer  
-[LinkedIn](https://linkedin.com/in/miguelangel) · [GitHub](https://github.com/miguelelvisor-debug)
+
